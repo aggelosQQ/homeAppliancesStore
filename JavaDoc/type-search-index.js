@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"airCondition"},{"l":"All Classes","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"Device"},{"p":"<Unnamed>","l":"Fridge"},{"p":"<Unnamed>","l":"homeAppliancesStore"},{"p":"<Unnamed>","l":"Oven"},{"p":"<Unnamed>","l":"washingMachine"}];updateSearchResults();
